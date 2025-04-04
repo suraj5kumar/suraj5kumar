@@ -47,11 +47,11 @@
 
 ## 📌 Featured Projects
 
-Here are a few things I've worked on (add links as needed):
+Here are a few things I've worked on:
 
-- 🛒 **eCommerce React App** — Dynamic UI, filterable products, cart integration  
-- 📊 **Data Dashboard** — Custom visualizations using Chart.js and REST APIs  
-- ✨ **Portfolio Website** — Built with React, animated sections, mobile-friendly  
+- 🛒<a href="https://text-13-utils.netlify.app/">**Textutils**</a> — Responsive UI, Text conversions, Special extractions
+- 📊 **Data Dashboard** — Custom visualizations using Hicharts
+- ✨<a href="https://portfolio-suraj-kumar.netlify.app/">**Portfolio Website**</a> — Built with React, animated sections, mobile-friendly  
 
 ---
 
