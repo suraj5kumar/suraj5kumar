@@ -38,9 +38,9 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=surajkumar&show_icons=true&theme=radical" alt="Suraj Kumar GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=suraj5kumar&show_icons=true&theme=radical" alt="Suraj Kumar GitHub stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=surajkumar&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suraj5kumar&theme=radical" alt="GitHub Streak"/>
 </p>
 
 ---
