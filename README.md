@@ -34,7 +34,7 @@
 </table>
 
 ---
-
+<!--
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -44,7 +44,7 @@
 </p>
 
 ---
-
+-->
 ## 📌 Featured Projects
 
 Here are a few things I've worked on:
